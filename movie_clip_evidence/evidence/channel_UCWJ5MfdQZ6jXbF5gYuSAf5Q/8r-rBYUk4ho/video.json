@@ -1,0 +1,76 @@
+{
+  "kind": "youtube#video",
+  "etag": "JqpPZPcRO289W4DdIiz7G116Uek",
+  "id": "8r-rBYUk4ho",
+  "snippet": {
+    "publishedAt": "2026-02-02T20:01:06Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Diabolic - Official Trailer (2026) Elizabeth Cullen, John Kim, Mia Challis",
+    "description": "Take a look at the Official Trailer for Diabolic, a horror film distributed by Brainstorm Media. Witness a woman in search of a cure who ends up becoming a sinister target in Diabolic, in theaters and On Demand on February 20.\n\nA woman must return to the fundamentalist compound where she was raised after she is haunted by the vengeful spirit of a cursed witch.\n\nDiabolic stars Elizabeth Cullen, John Kim, Mia Challis, Robin Goldsworthy, Genevieve Mooy, and more. The film is directed by Daniel J. Phillips and written by Mike Harding, Daniel J. Phillips, and Ticia Madsen.\n\nDiabolic is in theaters and On Demand on February 20.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/8r-rBYUk4ho/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/8r-rBYUk4ho/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/8r-rBYUk4ho/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/8r-rBYUk4ho/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/8r-rBYUk4ho/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Brainstorm Media",
+      "Diabolic",
+      "Diabolic Productions",
+      "Empire Road Pictures",
+      "Horror",
+      "On-Demand",
+      "SunJive Studios",
+      "Theater",
+      "Elizabeth Cullen",
+      "John Kim",
+      "Mia Challis",
+      "Robin Goldsworthy",
+      "Genevieve Mooy"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Diabolic - Official Trailer (2026) Elizabeth Cullen, John Kim, Mia Challis",
+      "description": "Take a look at the Official Trailer for Diabolic, a horror film distributed by Brainstorm Media. Witness a woman in search of a cure who ends up becoming a sinister target in Diabolic, in theaters and On Demand on February 20.\n\nA woman must return to the fundamentalist compound where she was raised after she is haunted by the vengeful spirit of a cursed witch.\n\nDiabolic stars Elizabeth Cullen, John Kim, Mia Challis, Robin Goldsworthy, Genevieve Mooy, and more. The film is directed by Daniel J. Phillips and written by Mike Harding, Daniel J. Phillips, and Ticia Madsen.\n\nDiabolic is in theaters and On Demand on February 20."
+    }
+  },
+  "contentDetails": {
+    "duration": "PT1M55S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "812",
+    "likeCount": "40",
+    "favoriteCount": "0",
+    "commentCount": "7"
+  }
+}

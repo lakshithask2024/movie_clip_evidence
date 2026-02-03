@@ -1,0 +1,83 @@
+{
+  "kind": "youtube#video",
+  "etag": "ObWV96YT6Y_d1iSSQpc4Cd1Bpzs",
+  "id": "HfShQF7CKTw",
+  "snippet": {
+    "publishedAt": "2026-01-28T19:57:07Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Dolly - Official Trailer (2026) Fabianne Therese, Seann William Scott, and Max the Impaler.",
+    "description": "Check out the Dolly trailer for this upcoming horror movie starring Fabianne Therese, Seann William Scott, Ethan Suplee, and Max the Impaler.\n\nA young woman, Macy, fights for survival after being abducted by a deranged, monster-like figure who wants to raise Macy as their child. A daring blend of New French Extremity and 1970s American horror.\n\nDolly is written by Rod Blackhurst and Brandon Weavil. It is directed by Rod Blackhurst.\n\nDolly opens in theaters on March 6, 2026.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/HfShQF7CKTw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/HfShQF7CKTw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/HfShQF7CKTw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/HfShQF7CKTw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/HfShQF7CKTw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Alamo Drafthouse Cinemas",
+      "Dolly",
+      "Horror",
+      "Mama Bear Productions",
+      "Set Point Entertainment",
+      "Theater",
+      "Witchcraft Motion Picture Company",
+      "Dolly movie trailers",
+      "movie trailer",
+      "movies",
+      "new movies",
+      "new movie trailers",
+      "upcoming movies 2026",
+      "new movies 2026",
+      "2026 new movies",
+      "2026 trailers",
+      "new trailers",
+      "ign",
+      "ign movie trailer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Dolly - Official Trailer (2026) Fabianne Therese, Seann William Scott, and Max the Impaler.",
+      "description": "Check out the Dolly trailer for this upcoming horror movie starring Fabianne Therese, Seann William Scott, Ethan Suplee, and Max the Impaler.\n\nA young woman, Macy, fights for survival after being abducted by a deranged, monster-like figure who wants to raise Macy as their child. A daring blend of New French Extremity and 1970s American horror.\n\nDolly is written by Rod Blackhurst and Brandon Weavil. It is directed by Rod Blackhurst.\n\nDolly opens in theaters on March 6, 2026."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M39S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "56284",
+    "likeCount": "1599",
+    "favoriteCount": "0",
+    "commentCount": "197"
+  }
+}

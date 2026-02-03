@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#video",
+  "etag": "1vC0pNfe67JpmJ7HaNGZamDIfQI",
+  "id": "K8mJ_SJH4Jk",
+  "snippet": {
+    "publishedAt": "2024-03-03T17:20:05Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Deadpool Bullet Countdown Scene - Deadpool (2016) Movie Clip HD",
+    "description": "Deadpool Bullet Countdown Scene - Bridge/Highway Fight Scene - Deadpool (2016) Movie Clip HD [1080p]\n\nTM & © Fox/Disney Enterprises Incorp. (2016)\n\nFair use. \n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/K8mJ_SJH4Jk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/K8mJ_SJH4Jk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/K8mJ_SJH4Jk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/K8mJ_SJH4Jk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/K8mJ_SJH4Jk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "deadpool",
+      "deadpool scene",
+      "fight scene",
+      "deadpool fight",
+      "x-men",
+      "funny",
+      "moments",
+      "funny scene",
+      "movie clip",
+      "scene",
+      "scenes",
+      "clip",
+      "Marvel",
+      "Superhero",
+      "marvel comics",
+      "superheroes",
+      "ryan reynolds",
+      "deadpool funny moments",
+      "wade wilson",
+      "wolverine"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Deadpool Bullet Countdown Scene - Deadpool (2016) Movie Clip HD",
+      "description": "Deadpool Bullet Countdown Scene - Bridge/Highway Fight Scene - Deadpool (2016) Movie Clip HD [1080p]\n\nTM & © Fox/Disney Enterprises Incorp. (2016)\n\nFair use. \n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "3522545",
+    "likeCount": "30185",
+    "favoriteCount": "0",
+    "commentCount": "661"
+  }
+}

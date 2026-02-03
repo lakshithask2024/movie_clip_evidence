@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#video",
+  "etag": "pvz3Davmdo1NezKG6s-Ox9Tnku8",
+  "id": "25C7qzZ5JAs",
+  "snippet": {
+    "publishedAt": "2026-01-30T19:35:42Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Outlander Season 8 - Official Trailer (2026)",
+    "description": "Watch the Season 8 Trailer for Outlander, a romantic drama distributed by Starz. Take a look at new scenes from the upcoming season as the series comes to a close. Outlander Season 8 premieres on March 6 on Starz.\n\nAs Season Eight begins, Jamie and Claire soon find the war has followed them home to Fraser’s Ridge, now a thriving settlement that has grown and flourished in their absence. With new arrivals and changes made during their years away, the Frasers are confronted with the question of what they are willing to sacrifice for the place they call home and, more importantly, what they would sacrifice to stay together. While the Frasers keep a united front against outside intruders, family secrets finally coming to light threaten to tear them apart from the inside. Although they’ve left the war for America’s freedom behind, their fight for Fraser’s Ridge has only just begun.\n \nOutlander Season 8 premieres on March 6 on Starz.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/25C7qzZ5JAs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/25C7qzZ5JAs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/25C7qzZ5JAs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/25C7qzZ5JAs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/25C7qzZ5JAs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Drama",
+      "Outlander",
+      "Starz",
+      "outlander season 8",
+      "outlander",
+      "outlander s8",
+      "outlander season 8 trailer",
+      "outlander s8 trailer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Outlander Season 8 - Official Trailer (2026)",
+      "description": "Watch the Season 8 Trailer for Outlander, a romantic drama distributed by Starz. Take a look at new scenes from the upcoming season as the series comes to a close. Outlander Season 8 premieres on March 6 on Starz.\n\nAs Season Eight begins, Jamie and Claire soon find the war has followed them home to Fraser’s Ridge, now a thriving settlement that has grown and flourished in their absence. With new arrivals and changes made during their years away, the Frasers are confronted with the question of what they are willing to sacrifice for the place they call home and, more importantly, what they would sacrifice to stay together. While the Frasers keep a united front against outside intruders, family secrets finally coming to light threaten to tear them apart from the inside. Although they’ve left the war for America’s freedom behind, their fight for Fraser’s Ridge has only just begun.\n \nOutlander Season 8 premieres on March 6 on Starz."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M8S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "14150",
+    "likeCount": "248",
+    "favoriteCount": "0",
+    "commentCount": "16"
+  }
+}

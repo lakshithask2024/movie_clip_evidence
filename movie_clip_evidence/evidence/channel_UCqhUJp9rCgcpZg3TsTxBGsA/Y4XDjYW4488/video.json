@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "aYY84JCAt602Ds-RKbxyZrApsBE",
+  "id": "Y4XDjYW4488",
+  "snippet": {
+    "publishedAt": "2026-02-01T00:00:36Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Could Sam Raimi Make Spider-Man 4?",
+    "description": "Could Sam Raimi Make Spider-Man 4?\n\n#sendhelp #sendhelpmovie #samraimi #spiderman #samraimispiderman #peterparker #spiderman4 #tobeymaguire #kirstendunst \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Y4XDjYW4488/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Y4XDjYW4488/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Y4XDjYW4488/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Y4XDjYW4488/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Y4XDjYW4488/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Could Sam Raimi Make Spider-Man 4?",
+      "description": "Could Sam Raimi Make Spider-Man 4?\n\n#sendhelp #sendhelpmovie #samraimi #spiderman #samraimispiderman #peterparker #spiderman4 #tobeymaguire #kirstendunst \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT58S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "21510",
+    "likeCount": "1485",
+    "favoriteCount": "0",
+    "commentCount": "56"
+  }
+}

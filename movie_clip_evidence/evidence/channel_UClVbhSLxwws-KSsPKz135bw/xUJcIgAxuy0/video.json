@@ -1,0 +1,81 @@
+{
+  "kind": "youtube#video",
+  "etag": "Ux6NHTTSA3bedvaBT7ep-9cmutg",
+  "id": "xUJcIgAxuy0",
+  "snippet": {
+    "publishedAt": "2023-08-26T18:29:10Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Flash Saves Iris West From Car Crash - Zack Snyder's Justice League (2021) Movie CLIP HD",
+    "description": "Flash/Barry Allen (Ezra Miller) Saves Iris West From Car Crash (Scene) - Zack Snyder's Justice League (2021) Movie Clip HD [1080p]\n\nTM & © Warner Bros. (2021)\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/xUJcIgAxuy0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/xUJcIgAxuy0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/xUJcIgAxuy0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/xUJcIgAxuy0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/xUJcIgAxuy0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "flash",
+      "ezra miller",
+      "barry allen",
+      "justice league",
+      "movie clip",
+      "scene",
+      "scenes",
+      "superhero",
+      "superheroes",
+      "dc",
+      "zack snyder's justice league",
+      "zack snyder",
+      "snyder cut",
+      "flash scene",
+      "batman",
+      "flash saves iris",
+      "flash 2023"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Flash Saves Iris West From Car Crash - Zack Snyder's Justice League (2021) Movie CLIP HD",
+      "description": "Flash/Barry Allen (Ezra Miller) Saves Iris West From Car Crash (Scene) - Zack Snyder's Justice League (2021) Movie Clip HD [1080p]\n\nTM & © Warner Bros. (2021)\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "131862",
+    "likeCount": "1640",
+    "favoriteCount": "0",
+    "commentCount": "119"
+  }
+}

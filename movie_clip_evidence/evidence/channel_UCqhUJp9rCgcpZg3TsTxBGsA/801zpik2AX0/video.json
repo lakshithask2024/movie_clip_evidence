@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "wUTpD0vFMXfroqg-fcrujkgljdQ",
+  "id": "801zpik2AX0",
+  "snippet": {
+    "publishedAt": "2026-02-01T01:00:16Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "That Certainly Is A Spider-Man Hot Take...",
+    "description": "That Certainly Is A Spider-Man Hot Take... - ScreenRant's Challenge My GOAT\n\n#screenrant #challengemygoat #screenrantchallengemygoat #samraimi #samraimimovies #spiderman #samraimispiderman #spiderman2 #spiderman3 \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/801zpik2AX0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/801zpik2AX0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/801zpik2AX0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/801zpik2AX0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/801zpik2AX0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "That Certainly Is A Spider-Man Hot Take...",
+      "description": "That Certainly Is A Spider-Man Hot Take... - ScreenRant's Challenge My GOAT\n\n#screenrant #challengemygoat #screenrantchallengemygoat #samraimi #samraimimovies #spiderman #samraimispiderman #spiderman2 #spiderman3 \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "1557",
+    "likeCount": "19",
+    "favoriteCount": "0",
+    "commentCount": "2"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "kind": "youtube#video",
+  "etag": "_02yYJWRXbQVlAxLWbWmYQrv1iw",
+  "id": "4d1htij6BFc",
+  "snippet": {
+    "publishedAt": "2026-01-28T16:00:07Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "We Drank Coffee With Walker Scobell | coffee chats",
+    "description": "It's the first Coffee Chats of the new year! Walker Scobell sits down with Liam Crowley to reflect on Percy Jackson season 2 and share stories from his past year.\n\n👉 Don’t forget to like, comment, and subscribe for more exclusive interviews and film deep-dives.\n\n📍 Filmed at: Launch Pod Studios\n🎤 Host: Liam Crowley\n⭐ Guest: Walker Scobell\n☕: Gumption Coffee\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4d1htij6BFc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4d1htij6BFc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4d1htij6BFc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4d1htij6BFc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/4d1htij6BFc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood",
+      "Percy Jackson and the Olympians",
+      "Rick Riordan",
+      "Walker Scobell",
+      "Percabeth",
+      "Coffee Chats",
+      "Disney+",
+      "Annabeth Chase",
+      "walker Scobell interview",
+      "Percy Jackson interview",
+      "percy Jackson season 3",
+      "the titans curse",
+      "Charlie bushnell",
+      "aryan simhadri"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "We Drank Coffee With Walker Scobell | coffee chats",
+      "description": "It's the first Coffee Chats of the new year! Walker Scobell sits down with Liam Crowley to reflect on Percy Jackson season 2 and share stories from his past year.\n\n👉 Don’t forget to like, comment, and subscribe for more exclusive interviews and film deep-dives.\n\n📍 Filmed at: Launch Pod Studios\n🎤 Host: Liam Crowley\n⭐ Guest: Walker Scobell\n☕: Gumption Coffee\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT21M25S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "71578",
+    "likeCount": "4436",
+    "favoriteCount": "0",
+    "commentCount": "149"
+  }
+}

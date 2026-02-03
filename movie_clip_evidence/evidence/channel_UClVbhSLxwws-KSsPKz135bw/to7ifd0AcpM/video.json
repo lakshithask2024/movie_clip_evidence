@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#video",
+  "etag": "6L8_dAIvcYJBwx-6vPZfWMbLWPs",
+  "id": "to7ifd0AcpM",
+  "snippet": {
+    "publishedAt": "2025-01-25T20:27:07Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Falcon vs Batroc's Soldiers - Plane Scene - The Falcon and the Winter Soldier (TV Series 2021)",
+    "description": "Captain America/Sam Wilson/Falcon vs LAF crews/Georges Batroc's soldiers - Canyon Battle - Joaquín Torres - The Falcon and the Winter Soldier (TV Mini Series 2021) TFATWS S1E1\n\nTM & © Disney Enterprises (2021)\n\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/to7ifd0AcpM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/to7ifd0AcpM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/to7ifd0AcpM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/to7ifd0AcpM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/to7ifd0AcpM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "captain america",
+      "sam wilson",
+      "falcon",
+      "scene",
+      "scenes",
+      "clip",
+      "movie clip",
+      "marvel",
+      "marvel comics",
+      "Superhero",
+      "superheroes",
+      "captain america brave new world",
+      "winter soldier",
+      "batroc",
+      "joaquin torres",
+      "the falcon and the winter soldier"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Falcon vs Batroc's Soldiers - Plane Scene - The Falcon and the Winter Soldier (TV Series 2021)",
+      "description": "Captain America/Sam Wilson/Falcon vs LAF crews/Georges Batroc's soldiers - Canyon Battle - Joaquín Torres - The Falcon and the Winter Soldier (TV Mini Series 2021) TFATWS S1E1\n\nTM & © Disney Enterprises (2021)\n\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M16S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "118244",
+    "likeCount": "1133",
+    "favoriteCount": "0",
+    "commentCount": "85"
+  }
+}

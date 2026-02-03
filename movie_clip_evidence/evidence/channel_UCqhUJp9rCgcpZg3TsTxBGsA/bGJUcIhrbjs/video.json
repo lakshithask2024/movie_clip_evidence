@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "zB9AIsP1gsK-b3i2qjdwaibPFjo",
+  "id": "bGJUcIhrbjs",
+  "snippet": {
+    "publishedAt": "2026-01-28T22:00:38Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Chris Pratt Pitches a MCU Star-Lord & Deadpool Team-Up",
+    "description": "Chris Pratt Pitches a MCU Star-Lord & Deadpool Team-Up\n\n#mcu #marvelstudios #marvel #marvelcinematicuniverse #chrispratt #starlord #peterquill #guardiansofthegalaxy #deadpool #ryanreynolds #mercy \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/bGJUcIhrbjs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/bGJUcIhrbjs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/bGJUcIhrbjs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/bGJUcIhrbjs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/bGJUcIhrbjs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Chris Pratt Pitches a MCU Star-Lord & Deadpool Team-Up",
+      "description": "Chris Pratt Pitches a MCU Star-Lord & Deadpool Team-Up\n\n#mcu #marvelstudios #marvel #marvelcinematicuniverse #chrispratt #starlord #peterquill #guardiansofthegalaxy #deadpool #ryanreynolds #mercy \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT42S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "9614",
+    "likeCount": "326",
+    "favoriteCount": "0",
+    "commentCount": "4"
+  }
+}

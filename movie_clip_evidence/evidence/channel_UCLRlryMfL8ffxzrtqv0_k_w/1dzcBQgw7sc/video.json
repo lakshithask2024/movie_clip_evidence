@@ -1,0 +1,98 @@
+{
+  "kind": "youtube#video",
+  "etag": "JChWLwFssQM6yK0nOiOybzNsKpQ",
+  "id": "1dzcBQgw7sc",
+  "snippet": {
+    "publishedAt": "2026-02-01T14:12:28Z",
+    "channelId": "UCLRlryMfL8ffxzrtqv0_k_w",
+    "title": "It's Getting Hot! - ICE AGE 6: BOILING POINT Movie Preview (2027)",
+    "description": "In this episode of our KinoCheck Originals you will learn everything we already know about the upcoming Ice Age 6: Boiling Point! |More ➤ https://KinoCheck.com/App #KinoCheckOriginals\n\n00:00 Ice Age 6 Movie Preview\n00:18 The History of Ice Age\n01:19 The Big Risk For Ice Age 6\n02:25 Release Date\n\nNote | KinoCheck Originals | All Rights Reserved | https://amzo.in are affiliate-links. That add no additional cost to you, but will support our work through a small commission. | #KinoCheck®",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1dzcBQgw7sc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1dzcBQgw7sc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1dzcBQgw7sc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/1dzcBQgw7sc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/1dzcBQgw7sc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "KinoCheck.com",
+    "tags": [
+      "2027",
+      "Animation",
+      "Boiling Point",
+      "Buck",
+      "Denis Leary",
+      "Diego",
+      "Dinosaurs",
+      "Ellie",
+      "First Look",
+      "Ice Age",
+      "Ice Age 6: Boiling Point",
+      "John Leguizamo",
+      "KinoCheck",
+      "Lava",
+      "Manny",
+      "Movie",
+      "Preview",
+      "Ray Romano",
+      "Scrat",
+      "Sequel",
+      "Sid",
+      "Simon Pegg",
+      "trailer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "It's Getting Hot! - ICE AGE 6: BOILING POINT Movie Preview (2027)",
+      "description": "In this episode of our KinoCheck Originals you will learn everything we already know about the upcoming Ice Age 6: Boiling Point! |More ➤ https://KinoCheck.com/App #KinoCheckOriginals\n\n00:00 Ice Age 6 Movie Preview\n00:18 The History of Ice Age\n01:19 The Big Risk For Ice Age 6\n02:25 Release Date\n\nNote | KinoCheck Originals | All Rights Reserved | https://amzo.in are affiliate-links. That add no additional cost to you, but will support our work through a small commission. | #KinoCheck®"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M11S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "regionRestriction": {
+      "blocked": [
+        "BR",
+        "BY",
+        "ID",
+        "IN",
+        "PH",
+        "PK",
+        "RU"
+      ]
+    },
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "29555",
+    "likeCount": "609",
+    "favoriteCount": "0",
+    "commentCount": "75"
+  }
+}

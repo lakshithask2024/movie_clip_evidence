@@ -1,0 +1,83 @@
+{
+  "kind": "youtube#video",
+  "etag": "YMR2Q2UDdUG3wSjxfy4nO6omRVU",
+  "id": "RKWP4fEthjM",
+  "snippet": {
+    "publishedAt": "2025-04-05T17:25:22Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Daredevil vs Maya - Fight Scene - Echo (TV Series 2024)",
+    "description": "Daredevil/Matt Murdock (Charlie Cox) vs Maya Lopez/Echo (Alaqua Cox) - Fight Scene - Echo (TV Series 2024) Season 1 Episode 1 \"Chafa\"\n\nTM & © Disney Enterprises (2024)\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/RKWP4fEthjM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/RKWP4fEthjM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/RKWP4fEthjM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/RKWP4fEthjM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/RKWP4fEthjM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "daredevil",
+      "matt murdock",
+      "charlie cox",
+      "daredevil vs echo",
+      "echo vs daredevil",
+      "maya lopez",
+      "fight scene",
+      "daredevil born again",
+      "scene",
+      "scenes",
+      "echo",
+      "movie clip",
+      "clip",
+      "marvel comics",
+      "superheroes",
+      "superhero",
+      "marvel",
+      "daredevil vs bullseye",
+      "daredevil vs muse"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Daredevil vs Maya - Fight Scene - Echo (TV Series 2024)",
+      "description": "Daredevil/Matt Murdock (Charlie Cox) vs Maya Lopez/Echo (Alaqua Cox) - Fight Scene - Echo (TV Series 2024) Season 1 Episode 1 \"Chafa\"\n\nTM & © Disney Enterprises (2024)\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M8S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "380462",
+    "likeCount": "5538",
+    "favoriteCount": "0",
+    "commentCount": "552"
+  }
+}

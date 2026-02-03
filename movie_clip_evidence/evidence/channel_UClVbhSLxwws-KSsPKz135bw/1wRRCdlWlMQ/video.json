@@ -1,0 +1,77 @@
+{
+  "kind": "youtube#video",
+  "etag": "XVKAojy0AJmlhtHDf0Iw1UCCKBk",
+  "id": "1wRRCdlWlMQ",
+  "snippet": {
+    "publishedAt": "2025-06-21T19:44:33Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Superman Oil Rig Rescue Scene - Man of Steel (2013) Movie Clip HD",
+    "description": "Superman/Kal-El/Clark Kent Saves People From Fire - Oil Rig Rescue Scene - Superman's Powers - Shirtless Henry Cavill - Man of Steel (2013) Movie Clip HD\n\nTM & © Warner Bros. (2013)\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/1wRRCdlWlMQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/1wRRCdlWlMQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/1wRRCdlWlMQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/1wRRCdlWlMQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/1wRRCdlWlMQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "superman",
+      "superman scene",
+      "man of steel",
+      "henry cavill",
+      "clark kent",
+      "kal-el",
+      "dc",
+      "oil rig",
+      "superman powers",
+      "movie clip",
+      "henry cavill superman",
+      "superman henry cavill",
+      "man of steel scene"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Superman Oil Rig Rescue Scene - Man of Steel (2013) Movie Clip HD",
+      "description": "Superman/Kal-El/Clark Kent Saves People From Fire - Oil Rig Rescue Scene - Superman's Powers - Shirtless Henry Cavill - Man of Steel (2013) Movie Clip HD\n\nTM & © Warner Bros. (2013)\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M4S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "67990",
+    "likeCount": "839",
+    "favoriteCount": "0",
+    "commentCount": "116"
+  }
+}

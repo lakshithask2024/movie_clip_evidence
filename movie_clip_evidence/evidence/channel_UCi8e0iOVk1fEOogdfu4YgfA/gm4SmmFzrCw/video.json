@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#video",
+  "etag": "BJWUNd9A5mwEDOZXyvxIuGEa8_A",
+  "id": "gm4SmmFzrCw",
+  "snippet": {
+    "publishedAt": "2026-01-30T16:12:36Z",
+    "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+    "title": "NEW MOVIE CLIP for 'The Wrecking Crew' - Car Explosion (2026)",
+    "description": "Check out the new clip from The Wrecking Crew starring Jason Momoa & Dave Bautista! \n\nBuy tickets on Fandango and learn more on Rotten Tomatoes.\n\nUS Release Date: January 28, 2026\n\n#shorts",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gm4SmmFzrCw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gm4SmmFzrCw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gm4SmmFzrCw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/gm4SmmFzrCw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/gm4SmmFzrCw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Rotten Tomatoes Trailers",
+    "tags": [
+      "dave bautista",
+      "jason momoa",
+      "the wrecking crew",
+      "the wrecking crew 2026",
+      "the wrecking crew movie",
+      "the wrecking crew movie clip",
+      "the wrecking crew trailer",
+      "prime video",
+      "amazon prime",
+      "the wrecking crew official trailer",
+      "the wrecking crew prime video",
+      "prime video the wrecking crew",
+      "morena baccarin",
+      "the wrecking crew clips",
+      "jason momoa and dave bautista",
+      "the wrecking crew jason momoa",
+      "wrecking crew movie",
+      "dave bautista and jason momoa",
+      "the wrecking crew clip",
+      "new movies 2026"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "NEW MOVIE CLIP for 'The Wrecking Crew' - Car Explosion (2026)",
+      "description": "Check out the new clip from The Wrecking Crew starring Jason Momoa & Dave Bautista! \n\nBuy tickets on Fandango and learn more on Rotten Tomatoes.\n\nUS Release Date: January 28, 2026\n\n#shorts"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT36S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "15157",
+    "likeCount": "217",
+    "favoriteCount": "0",
+    "commentCount": "6"
+  }
+}

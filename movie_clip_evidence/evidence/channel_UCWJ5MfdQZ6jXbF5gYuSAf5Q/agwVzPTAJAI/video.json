@@ -1,0 +1,62 @@
+{
+  "kind": "youtube#video",
+  "etag": "f7Tyj0bONj87BkFIazyJ-vJ0dtY",
+  "id": "agwVzPTAJAI",
+  "snippet": {
+    "publishedAt": "2026-01-27T19:00:02Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Matter of Time - Official Trailer (2026) Sean Astin, Myles Erlick, Ali Astin",
+    "description": "Matter of Time follows Charlie Fleck, a 29-year-old aspiring video-game designer who discovers a mysterious device that can stop time — giving him the chance to finally pursue the dream he’s never had time for. As Charlie leans into the intoxicating power to “pause” life, the film asks what ambition costs, and what (and who) we risk losing when we try to control the moments that shape us. Matter of Time blends emotional character storytelling with genre-bending sci-fi elements, exploring friendship, purpose, grief, and the lengths we go to protect the people we love.\nMatter of Time releases February 27th, 2026.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/agwVzPTAJAI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/agwVzPTAJAI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/agwVzPTAJAI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/agwVzPTAJAI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/agwVzPTAJAI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Matter of Time - Official Trailer (2026) Sean Astin, Myles Erlick, Ali Astin",
+      "description": "Matter of Time follows Charlie Fleck, a 29-year-old aspiring video-game designer who discovers a mysterious device that can stop time — giving him the chance to finally pursue the dream he’s never had time for. As Charlie leans into the intoxicating power to “pause” life, the film asks what ambition costs, and what (and who) we risk losing when we try to control the moments that shape us. Matter of Time blends emotional character storytelling with genre-bending sci-fi elements, exploring friendship, purpose, grief, and the lengths we go to protect the people we love.\nMatter of Time releases February 27th, 2026."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M32S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "14577",
+    "likeCount": "217",
+    "favoriteCount": "0",
+    "commentCount": "8"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "M-Xf2v5go4d4BibEglahyhQtdj4",
+  "id": "WDN2NRbewLw",
+  "snippet": {
+    "publishedAt": "2026-02-01T19:00:26Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Watching Harrison Ford & Michael J. Fox Film 1 Of Shrinking's Best Moments",
+    "description": "Ted McGinley Recalls Watching Harrison Ford & Michael J. Fox Film One Of Shrinking's Best Moments\n\n#shrinking #shrinkingseason3 #tedmcginley #harrisonford #michaeljfox \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/WDN2NRbewLw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/WDN2NRbewLw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/WDN2NRbewLw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/WDN2NRbewLw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/WDN2NRbewLw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Watching Harrison Ford & Michael J. Fox Film 1 Of Shrinking's Best Moments",
+      "description": "Ted McGinley Recalls Watching Harrison Ford & Michael J. Fox Film One Of Shrinking's Best Moments\n\n#shrinking #shrinkingseason3 #tedmcginley #harrisonford #michaeljfox \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT52S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "3615",
+    "likeCount": "119",
+    "favoriteCount": "0",
+    "commentCount": "1"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "kind": "youtube#video",
+  "etag": "fy_cATmBYR9L937LV6FD_7lnl8w",
+  "id": "6WCxd0Hu384",
+  "snippet": {
+    "publishedAt": "2026-01-29T18:25:06Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Send Help Director Sam Raimi Was Wowed By Rachel McAdams & Dylan O'Brien's Chemistry",
+    "description": "Send Help director Sam Raimi and producer Zainab Azizi discuss what they need on set with them, how they prepared the gross-out fluids intheir upcoming movie, and why Dylan O'Brien & Rachel McAdams work so well together.\n\nSend Help arrives in theaters on January 30.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6WCxd0Hu384/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6WCxd0Hu384/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6WCxd0Hu384/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/6WCxd0Hu384/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/6WCxd0Hu384/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood",
+      "Send Help",
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "Sam Raimi",
+      "Zainab Azizi",
+      "Dylan O'Brien",
+      "Rachel McAdams",
+      "Spider-Man"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Send Help Director Sam Raimi Was Wowed By Rachel McAdams & Dylan O'Brien's Chemistry",
+      "description": "Send Help director Sam Raimi and producer Zainab Azizi discuss what they need on set with them, how they prepared the gross-out fluids intheir upcoming movie, and why Dylan O'Brien & Rachel McAdams work so well together.\n\nSend Help arrives in theaters on January 30.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT7M13S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "536",
+    "likeCount": "17",
+    "favoriteCount": "0",
+    "commentCount": "2"
+  }
+}

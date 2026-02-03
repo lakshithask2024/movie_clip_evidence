@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#video",
+  "etag": "VA0XncwquZcAdIukHGdRmcfL5w4",
+  "id": "ROtN_xDCp60",
+  "snippet": {
+    "publishedAt": "2026-01-31T22:00:26Z",
+    "channelId": "UC2iUwfYi_1FCGGqhOUNx-iA",
+    "title": "Marvel Studios’ REAL MCU Origin Was a Desperate Risk Nobody Expected #marvelstudios 👀🎥",
+    "description": "The MCU didn’t truly begin with Iron Man, but with a risky creative gamble by Marvel Studios that reshaped superhero movies and changed Hollywood forever.\n\nSubscribe | Enable ALL push notifications 🔔\nhttps://www.youtube.com/@ScreenRant?sub_confirmation=1\n\nFollow Screen Rant:\nTikTok: https://www.tiktok.com/@screenrant \nTwitter: https://twitter.com/screenrant \nFacebook: https://www.facebook.com/ScreenRant  \nLinkedIn: https://www.linkedin.com/company/screen-rant/ \n\nOfficial Screen Rant Website: \nhttp://screenrant.com/\n\nFor copyright matters please contact us at: legal@valnetinc.com\n\n#mcu #marvelstudios #ironman #marvelmovies #moviehistory",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ROtN_xDCp60/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ROtN_xDCp60/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ROtN_xDCp60/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ROtN_xDCp60/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ROtN_xDCp60/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant",
+    "tags": [
+      "ScreenRant",
+      "Screen Rant",
+      "MCU",
+      "Marvel Studios",
+      "Iron Man",
+      "Marvel Cinematic Universe",
+      "Marvel origin",
+      "MCU history",
+      "Marvel gamble",
+      "superhero movies",
+      "movie history",
+      "film explained",
+      "Marvel movies",
+      "Hollywood franchises"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Marvel Studios’ REAL MCU Origin Was a Desperate Risk Nobody Expected #marvelstudios 👀🎥",
+      "description": "The MCU didn’t truly begin with Iron Man, but with a risky creative gamble by Marvel Studios that reshaped superhero movies and changed Hollywood forever.\n\nSubscribe | Enable ALL push notifications 🔔\nhttps://www.youtube.com/@ScreenRant?sub_confirmation=1\n\nFollow Screen Rant:\nTikTok: https://www.tiktok.com/@screenrant \nTwitter: https://twitter.com/screenrant \nFacebook: https://www.facebook.com/ScreenRant  \nLinkedIn: https://www.linkedin.com/company/screen-rant/ \n\nOfficial Screen Rant Website: \nhttp://screenrant.com/\n\nFor copyright matters please contact us at: legal@valnetinc.com\n\n#mcu #marvelstudios #ironman #marvelmovies #moviehistory"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M3S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "6971",
+    "likeCount": "182",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

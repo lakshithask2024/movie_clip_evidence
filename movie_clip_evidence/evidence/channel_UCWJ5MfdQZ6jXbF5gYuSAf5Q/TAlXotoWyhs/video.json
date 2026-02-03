@@ -1,0 +1,79 @@
+{
+  "kind": "youtube#video",
+  "etag": "0xB73CKKGN6EpQ0bnADIWjFXp58",
+  "id": "TAlXotoWyhs",
+  "snippet": {
+    "publishedAt": "2026-01-27T18:55:53Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "BAKI-DOU - Official Teaser Trailer (English Subtitles)",
+    "description": "The Netflix Series BAKI-DOU starts streaming in 2026, only on Netflix!\n\n\"BAKI-DOU\" is based on the comic of the same name by Keisuke Itagaki that was serialized in Weekly Shonen Champion from 2014 to 2018. Following the conclusion of the greatest father-son fight on earth, Baki and other legendary fighters are overcome with unbearable boredom. Meanwhile, 364 meters beneath Tokyo Skytree, a secret plan is set into motion that seeks to revive the master swordsman Miyamoto Musashi...\n\nUnleashed in the present day, this menacing new threat wields his swordsmanship with unparalleled power and speed to attack Baki and the others. It's the strongest underground arena fighters vs. the legendary swordsman! What will be the outcome of this mixed martial arts battle that crosses time and space? The history of strength is about to change!\n\n#IGN #Anime",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TAlXotoWyhs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TAlXotoWyhs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TAlXotoWyhs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/TAlXotoWyhs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/TAlXotoWyhs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Anime",
+      "Baki",
+      "Netflix.com",
+      "anime 2026",
+      "2026 anime",
+      "baki dou",
+      "baki dou pv",
+      "baki pv",
+      "baki trailer",
+      "baki anime",
+      "baki dou trailer",
+      "baki netflix",
+      "netflix anime",
+      "anime netflix",
+      "netflix baki"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "BAKI-DOU - Official Teaser Trailer (English Subtitles)",
+      "description": "The Netflix Series BAKI-DOU starts streaming in 2026, only on Netflix!\n\n\"BAKI-DOU\" is based on the comic of the same name by Keisuke Itagaki that was serialized in Weekly Shonen Champion from 2014 to 2018. Following the conclusion of the greatest father-son fight on earth, Baki and other legendary fighters are overcome with unbearable boredom. Meanwhile, 364 meters beneath Tokyo Skytree, a secret plan is set into motion that seeks to revive the master swordsman Miyamoto Musashi...\n\nUnleashed in the present day, this menacing new threat wields his swordsmanship with unparalleled power and speed to attack Baki and the others. It's the strongest underground arena fighters vs. the legendary swordsman! What will be the outcome of this mixed martial arts battle that crosses time and space? The history of strength is about to change!\n\n#IGN #Anime"
+    },
+    "defaultAudioLanguage": "ja"
+  },
+  "contentDetails": {
+    "duration": "PT56S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "3103",
+    "likeCount": "136",
+    "favoriteCount": "0",
+    "commentCount": "5"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#video",
+  "etag": "PWpy8eBrq_F4ZMBQWwTuJbFolKg",
+  "id": "6nZi5lqZYVA",
+  "snippet": {
+    "publishedAt": "2026-01-31T03:29:35Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "School Spirits Stars Break Down The First Three Episodes Of Season 3",
+    "description": "School Spirits stars Nick Pugliese, Sarah Yarkin, Miles Elliot, Ci Hang Ma, Spencer MacPherson, Kiara Prichardo, Rainbow Wedell, Jennifer Tilly, and Josh Zuckerman discussthe first three episodes of season 3. Topics include their reactions to Simon being trapped, the romance roadblocks for Charley & Yuri, the secrets Mr. Martin keeps, the entrance of Superintendent Hunter-Pryce, and much more.\n\nNew episodes of School Spirits season 3 drop Wednesdays on Paramount+.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6nZi5lqZYVA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6nZi5lqZYVA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6nZi5lqZYVA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/6nZi5lqZYVA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/6nZi5lqZYVA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood",
+      "School Spirits",
+      "Nick Pugliese",
+      "Sarah Yarkin",
+      "Miles Elliot",
+      "Ci Hang Ma",
+      "Spencer MacPherson",
+      "Kiara Prichardo",
+      "Rainbow Wedell",
+      "Jennifer Tilly",
+      "Josh Zuckerman",
+      "Paramount+",
+      "seaason 3"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "School Spirits Stars Break Down The First Three Episodes Of Season 3",
+      "description": "School Spirits stars Nick Pugliese, Sarah Yarkin, Miles Elliot, Ci Hang Ma, Spencer MacPherson, Kiara Prichardo, Rainbow Wedell, Jennifer Tilly, and Josh Zuckerman discussthe first three episodes of season 3. Topics include their reactions to Simon being trapped, the romance roadblocks for Charley & Yuri, the secrets Mr. Martin keeps, the entrance of Superintendent Hunter-Pryce, and much more.\n\nNew episodes of School Spirits season 3 drop Wednesdays on Paramount+.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT17M24S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "4834",
+    "likeCount": "27",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

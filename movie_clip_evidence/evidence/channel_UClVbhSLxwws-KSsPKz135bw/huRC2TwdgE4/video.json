@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#video",
+  "etag": "ToAGIlNBVNs7bIc9w3KYJ3DD9p8",
+  "id": "huRC2TwdgE4",
+  "snippet": {
+    "publishedAt": "2026-01-24T21:15:54Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Namor Attacks Wakanda | Black Panther: Wakanda Forever (2022) Movie Clip HD",
+    "description": "Namor attacks Wakanda by flooding the Golden City, sparking an epic fight scene between Wakandans and the Talokanil. This movie clip is from Black Panther: Wakanda Forever (2022). The Wakandans Will Return In Avengers: Doomsday.\n\nTM & © Disney Enterprises (2022)\n\nFair use.Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/huRC2TwdgE4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/huRC2TwdgE4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/huRC2TwdgE4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/huRC2TwdgE4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/huRC2TwdgE4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "black panther",
+      "wakanda",
+      "namor",
+      "shuri",
+      "wakanda forever",
+      "wakandans",
+      "talokan",
+      "talokanil",
+      "black panther 2",
+      "black panther wakanda forever",
+      "avengers doomsday",
+      "avengers",
+      "fight scene",
+      "mcu",
+      "marvel",
+      "movie clip",
+      "scene",
+      "namor mcu",
+      "namor attacks wakanda",
+      "namor floods wakanda"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Namor Attacks Wakanda | Black Panther: Wakanda Forever (2022) Movie Clip HD",
+      "description": "Namor attacks Wakanda by flooding the Golden City, sparking an epic fight scene between Wakandans and the Talokanil. This movie clip is from Black Panther: Wakanda Forever (2022). The Wakandans Will Return In Avengers: Doomsday.\n\nTM & © Disney Enterprises (2022)\n\nFair use.Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M49S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "48604",
+    "likeCount": "487",
+    "favoriteCount": "0",
+    "commentCount": "78"
+  }
+}

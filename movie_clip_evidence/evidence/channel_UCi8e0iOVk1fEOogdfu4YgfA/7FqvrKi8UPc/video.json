@@ -1,0 +1,92 @@
+{
+  "kind": "youtube#video",
+  "etag": "3cQRzQIwKnVNKEqF2qHKBiHVrh4",
+  "id": "7FqvrKi8UPc",
+  "snippet": {
+    "publishedAt": "2026-01-26T14:44:00Z",
+    "channelId": "UCi8e0iOVk1fEOogdfu4YgfA",
+    "title": "FIRST LOOK AT YOSHI in 'The Super Mario Galaxy Movie' (2026)",
+    "description": "Check out the first look at Yoshi in The Super Mario Galaxy Movie!\n\nBuy tickets on Fandango and learn more on Rotten Tomatoes.\n\nUS Release Date: April 1, 2026\n\n#shorts",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7FqvrKi8UPc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7FqvrKi8UPc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7FqvrKi8UPc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7FqvrKi8UPc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7FqvrKi8UPc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Rotten Tomatoes Trailers",
+    "tags": [
+      "anya taylor-joy",
+      "bowser",
+      "charlie day",
+      "chris pratt",
+      "illumination entertainment",
+      "jack black",
+      "keegan-michael key",
+      "luigi",
+      "mario",
+      "mario movie 2",
+      "mario movie yoshi",
+      "mario the movie 2",
+      "new movie trailers",
+      "nintendo",
+      "nintendo co. ltd.",
+      "official title",
+      "princess peach",
+      "super mario bros 2",
+      "super mario bros.",
+      "super mario movie",
+      "teaser trailer",
+      "the super mario galaxy",
+      "the super mario galaxy movie",
+      "the super mario galaxy movie 2026",
+      "the super mario galaxy movie trailer",
+      "toad",
+      "universal",
+      "yoshi"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "FIRST LOOK AT YOSHI in 'The Super Mario Galaxy Movie' (2026)",
+      "description": "Check out the first look at Yoshi in The Super Mario Galaxy Movie!\n\nBuy tickets on Fandango and learn more on Rotten Tomatoes.\n\nUS Release Date: April 1, 2026\n\n#shorts"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M5S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "47670",
+    "likeCount": "1916",
+    "favoriteCount": "0",
+    "commentCount": "28"
+  }
+}

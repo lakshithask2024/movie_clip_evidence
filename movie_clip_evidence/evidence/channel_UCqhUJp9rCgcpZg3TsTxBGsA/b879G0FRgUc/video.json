@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "FN3GqYoU0wTpBG4aPVbGfTBKGCQ",
+  "id": "b879G0FRgUc",
+  "snippet": {
+    "publishedAt": "2026-02-01T22:00:28Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "School Spirits Stars React To Major Character Death",
+    "description": "School Spirits Stars React To Major Character Death\n\n#schoolspirits #schoolspiritsseason3 #milomanheim #wallyclark #peytonlist #maddienears #sarahyarkin #rhondarosen #nickpugliese #charley #mileselliot #cihangma #jessgabor #janethamilton \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/b879G0FRgUc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/b879G0FRgUc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/b879G0FRgUc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/b879G0FRgUc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/b879G0FRgUc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "School Spirits Stars React To Major Character Death",
+      "description": "School Spirits Stars React To Major Character Death\n\n#schoolspirits #schoolspiritsseason3 #milomanheim #wallyclark #peytonlist #maddienears #sarahyarkin #rhondarosen #nickpugliese #charley #mileselliot #cihangma #jessgabor #janethamilton \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT1M51S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "408",
+    "likeCount": "18",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

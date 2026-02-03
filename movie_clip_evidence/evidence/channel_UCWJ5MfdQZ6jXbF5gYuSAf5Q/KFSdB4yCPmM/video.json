@@ -1,0 +1,79 @@
+{
+  "kind": "youtube#video",
+  "etag": "qvnrffo73nDhKAOvfFOKkFCPrOU",
+  "id": "KFSdB4yCPmM",
+  "snippet": {
+    "publishedAt": "2026-01-28T23:00:40Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Paradise - Season 2 Official Trailer",
+    "description": "Xavier searches for Teri out in the world and learns how people survived the three years since The Day. Back in Paradise, the social fabric frays as the bunker deals with the aftermath of Season 1, and new secrets are uncovered about the city’s origins. “Paradise” stars Sterling K. Brown, Julianne Nicholson, Sarah Shahi, Nicole Brydon Bloom, Krys Marshall, Enuka Okuma, Aliyah Mastin, Percy Daggs IV and Charlie Evans, with recurring guest stars James Marsden, Shailene Woodley, Thomas Doherty and Jon Beavers.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/KFSdB4yCPmM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/KFSdB4yCPmM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/KFSdB4yCPmM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/KFSdB4yCPmM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/KFSdB4yCPmM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Hulu",
+      "On-Demand",
+      "Paradise",
+      "Thriller",
+      "Paradise Tv trailers",
+      "tv trailer",
+      "new tv shows",
+      "new tv trailers",
+      "upcoming tv shows 2026",
+      "new tv shows 2026",
+      "2026 new tv shows",
+      "2026 trailers",
+      "new trailers",
+      "ign",
+      "ign tv trailer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Paradise - Season 2 Official Trailer",
+      "description": "Xavier searches for Teri out in the world and learns how people survived the three years since The Day. Back in Paradise, the social fabric frays as the bunker deals with the aftermath of Season 1, and new secrets are uncovered about the city’s origins. “Paradise” stars Sterling K. Brown, Julianne Nicholson, Sarah Shahi, Nicole Brydon Bloom, Krys Marshall, Enuka Okuma, Aliyah Mastin, Percy Daggs IV and Charlie Evans, with recurring guest stars James Marsden, Shailene Woodley, Thomas Doherty and Jon Beavers."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M8S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "2036",
+    "likeCount": "58",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

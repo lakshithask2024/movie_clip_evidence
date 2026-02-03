@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#video",
+  "etag": "CoEI7dQnbdBxMdvZcbfk5o87YnM",
+  "id": "7wmvJGiBNFc",
+  "snippet": {
+    "publishedAt": "2025-12-06T18:32:17Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Red Hulk Smashes the White House - Captain America: Brave New World (2025) Movie Clip HD",
+    "description": "General Thaddeus E. \"Thunderbolt\" Ross (Harrison Ford) / Red Hulk destroying The White House - Hulk Smash Scene - Red Hulk vs Captain America/Sam Wilson - Final Fight Scene - Captain America: Brave New World (2025) Movie Clip HD [1080p]\n\nTM & © Disney Enterprises/Marvel (2025)\n\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7wmvJGiBNFc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7wmvJGiBNFc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7wmvJGiBNFc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7wmvJGiBNFc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7wmvJGiBNFc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "hulk",
+      "red hulk",
+      "red hulk transformation",
+      "captain america",
+      "captain america brave new world",
+      "red hulk vs captain america",
+      "general ross",
+      "Harrison Ford",
+      "thunderbolt ross",
+      "red hulk scene",
+      "hulk scene",
+      "hulk smash",
+      "hulk smash scene",
+      "fight scene"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Red Hulk Smashes the White House - Captain America: Brave New World (2025) Movie Clip HD",
+      "description": "General Thaddeus E. \"Thunderbolt\" Ross (Harrison Ford) / Red Hulk destroying The White House - Hulk Smash Scene - Red Hulk vs Captain America/Sam Wilson - Final Fight Scene - Captain America: Brave New World (2025) Movie Clip HD [1080p]\n\nTM & © Disney Enterprises/Marvel (2025)\n\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M20S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "158338",
+    "likeCount": "1540",
+    "favoriteCount": "0",
+    "commentCount": "243"
+  }
+}

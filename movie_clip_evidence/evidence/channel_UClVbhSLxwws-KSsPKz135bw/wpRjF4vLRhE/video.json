@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#video",
+  "etag": "Isyx9eEXfI9VT6jADnL9oYpKuUU",
+  "id": "wpRjF4vLRhE",
+  "snippet": {
+    "publishedAt": "2025-07-06T16:16:00Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Ghost vs Wasp - Fight Scene - Ant-Man and the Wasp (2018) Movie Clip HD",
+    "description": "The Wasp vs Ghost/Ava Starr - First Fight Scene - Ant-Man and the Wasp (2018) Movie Clip HD\n\nTM & © Disney Enterprises / Marvel (2018)\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wpRjF4vLRhE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wpRjF4vLRhE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wpRjF4vLRhE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/wpRjF4vLRhE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/wpRjF4vLRhE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "ant man and the wasp",
+      "ghost vs wasp",
+      "wasp vs ghost",
+      "ghost fight scene",
+      "wasp fight scene",
+      "ant man fight scene",
+      "ant man and the wasp scene",
+      "marvel movie scenes",
+      "ant man 2018",
+      "ant man and the wasp 2018",
+      "ghost marvel",
+      "wasp marvel",
+      "hope van dyne",
+      "ava starr",
+      "avengers",
+      "thunderbolts",
+      "fight scene",
+      "movie clip",
+      "scene",
+      "scenes",
+      "mcu",
+      "hank pym"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Ghost vs Wasp - Fight Scene - Ant-Man and the Wasp (2018) Movie Clip HD",
+      "description": "The Wasp vs Ghost/Ava Starr - First Fight Scene - Ant-Man and the Wasp (2018) Movie Clip HD\n\nTM & © Disney Enterprises / Marvel (2018)\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M10S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "40770",
+    "likeCount": "480",
+    "favoriteCount": "0",
+    "commentCount": "39"
+  }
+}

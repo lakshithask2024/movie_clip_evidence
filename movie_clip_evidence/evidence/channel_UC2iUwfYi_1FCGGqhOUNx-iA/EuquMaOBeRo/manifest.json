@@ -1,0 +1,21 @@
+{
+  "captured_at_utc": "2026-02-03T01:21:40.056323+00:00",
+  "video_url": "https://www.youtube.com/watch?v=EuquMaOBeRo",
+  "artifacts": [
+    {
+      "path": "video.json",
+      "sha256": "63e8d46c47eeae02bc9720478138e10b9eb08e84445d4f5833e085bc9b9e2c13",
+      "bytes": 3377
+    },
+    {
+      "path": "watch.html",
+      "sha256": "379bf6683e8357973d5cbbd44d1c425d8dc8fcd58662a9fac548b257a2ebc7c1",
+      "bytes": 1161647
+    },
+    {
+      "path": "thumbnail.jpg",
+      "sha256": "9f70423eaa1d1080d698494b0fc30d74806ed422467bd0448348a4aa7dc1bd17",
+      "bytes": 130795
+    }
+  ]
+}

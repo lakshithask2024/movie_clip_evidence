@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "V_YreLlfrgDhimkgc0Mo1YkuQDc",
+  "id": "LGmLGxkKZVw",
+  "snippet": {
+    "publishedAt": "2026-02-03T00:00:18Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "School Spirits Does Mean Girls With Nicole & Claire",
+    "description": "School Spirits Does Mean Girls With Nicole & Claire\n\n#schoolspirits #schoolspiritsseason3 #kiarapichardo #nicoleherrera #rainbowwedell #clairezomer \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/LGmLGxkKZVw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/LGmLGxkKZVw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/LGmLGxkKZVw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/LGmLGxkKZVw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/LGmLGxkKZVw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "School Spirits Does Mean Girls With Nicole & Claire",
+      "description": "School Spirits Does Mean Girls With Nicole & Claire\n\n#schoolspirits #schoolspiritsseason3 #kiarapichardo #nicoleherrera #rainbowwedell #clairezomer \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT34S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "127",
+    "likeCount": "1",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "kind": "youtube#video",
+  "etag": "vDGWCaQiDeQcbbc8aDcDcHmG3kU",
+  "id": "3uwrL9unVek",
+  "snippet": {
+    "publishedAt": "2025-10-04T19:25:47Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Deadpool vs Wolverine - First Fight Scene - Deadpool & Wolverine (2024) Movie Clip HD",
+    "description": "Logan/Wolverine (Hugh Jackman) vs Deadpool (Ryan Reynolds)  - Void First Fight Scene - Deadpool and Wolverine (2024) Movie Clip HD [1080p]\n\nTM & © Disney Enterprises/Marvel (2024)\n\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3uwrL9unVek/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3uwrL9unVek/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3uwrL9unVek/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/3uwrL9unVek/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/3uwrL9unVek/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "deadpool",
+      "wolverine",
+      "deadpool vs wolverine",
+      "fight scene",
+      "deadpool vs wolverine fight scene",
+      "wolverine vs deadpool",
+      "logan",
+      "deadpool and wolverine",
+      "x men",
+      "wade wilson",
+      "x-men",
+      "movie clip",
+      "clip",
+      "scene",
+      "scenes",
+      "deadpool scene",
+      "Superhero",
+      "superheroes",
+      "ryan reynolds",
+      "wolverine and deadpool",
+      "hugh jackman",
+      "deadpool & wolverine",
+      "xmen",
+      "marvel"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Deadpool vs Wolverine - First Fight Scene - Deadpool & Wolverine (2024) Movie Clip HD",
+      "description": "Logan/Wolverine (Hugh Jackman) vs Deadpool (Ryan Reynolds)  - Void First Fight Scene - Deadpool and Wolverine (2024) Movie Clip HD [1080p]\n\nTM & © Disney Enterprises/Marvel (2024)\n\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M49S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "regionRestriction": {
+      "blocked": [
+        "RU"
+      ]
+    },
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "2149285",
+    "likeCount": "18943",
+    "favoriteCount": "0",
+    "commentCount": "650"
+  }
+}

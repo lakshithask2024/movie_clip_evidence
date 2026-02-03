@@ -1,0 +1,79 @@
+{
+  "kind": "youtube#video",
+  "etag": "wO4v7FkLuWdY4DJwdMmVW_96gvU",
+  "id": "fkqKw-u91hM",
+  "snippet": {
+    "publishedAt": "2026-02-02T01:54:33Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "The Devil Wears Prada 2 - Official Trailer (2026) Meryl Streep, Anne Hathaway",
+    "description": "Almost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n\nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n\nThe Devil Wears Prada 2 is produced by Wendy Finerman, and executive produced by Michael Bederman, Karen Rosenfelt and Aline Brosh McKenna. The film debuts exclusively in theaters May 1.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/fkqKw-u91hM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/fkqKw-u91hM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/fkqKw-u91hM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/fkqKw-u91hM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/fkqKw-u91hM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "20th Century Studios",
+      "Comedy",
+      "Drama",
+      "Sunswept Entertainment",
+      "The Devil Wears Prada",
+      "The Devil Wears Prada 2",
+      "Theater",
+      "Walt Disney Studios Motion Pictures",
+      "Wendy Finerman Productions"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "The Devil Wears Prada 2 - Official Trailer (2026) Meryl Streep, Anne Hathaway",
+      "description": "Almost 20 years after making their iconic turn as Miranda, Andy, Emily and Nigel—Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci return to the fashionable streets of New York City and the sleek offices of Runway Magazine in the eagerly awaited sequel to the 2006 phenomenon that defined a generation. \n\nThe film reunites the original main cast with director David Frankel and writer Aline Brosh McKenna, and introduces an all-new runway of characters including Kenneth Branagh, Simone Ashley, Justin Theroux, Lucy Liu, Patrick Brammall, Caleb Hearon, Helen J. Shen, Pauline Chalamet, B.J. Novak and Conrad Ricamora. Tracie Thoms and Tibor Feldman also reprise their roles as “Lily” and “Irv” from the first film. \n\nThe Devil Wears Prada 2 is produced by Wendy Finerman, and executive produced by Michael Bederman, Karen Rosenfelt and Aline Brosh McKenna. The film debuts exclusively in theaters May 1."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M40S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "regionRestriction": {
+      "blocked": [
+        "BY",
+        "RU"
+      ]
+    },
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "8643",
+    "likeCount": "206",
+    "favoriteCount": "0",
+    "commentCount": "14"
+  }
+}

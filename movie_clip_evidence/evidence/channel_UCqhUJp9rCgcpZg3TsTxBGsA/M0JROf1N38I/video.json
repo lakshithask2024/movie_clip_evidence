@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "3RUYkerMZN7yNO1DNcwnkiEKNwM",
+  "id": "M0JROf1N38I",
+  "snippet": {
+    "publishedAt": "2026-01-30T00:00:20Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Shrinking Star On Acting With Childhood Hero Jeff Daniels",
+    "description": "Shrinking Star Lukita Maxwell On Acting With Childhood Hero Jeff Daniels\n\n#shrinking #shrinkingseason3 #lukitamaxwell #jeffdaniels #becauseofwinndixie \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/M0JROf1N38I/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/M0JROf1N38I/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/M0JROf1N38I/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/M0JROf1N38I/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/M0JROf1N38I/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Shrinking Star On Acting With Childhood Hero Jeff Daniels",
+      "description": "Shrinking Star Lukita Maxwell On Acting With Childhood Hero Jeff Daniels\n\n#shrinking #shrinkingseason3 #lukitamaxwell #jeffdaniels #becauseofwinndixie \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT31S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "7335",
+    "likeCount": "84",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

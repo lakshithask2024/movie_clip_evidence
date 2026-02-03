@@ -1,0 +1,77 @@
+{
+  "kind": "youtube#video",
+  "etag": "yzwJ3DHmlEcoPe_wg8IegSuFSIs",
+  "id": "nKL4c0keUqw",
+  "snippet": {
+    "publishedAt": "2026-01-28T21:21:40Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Holy Days - Official Trailer (2026)",
+    "description": "1974 New Zealand: young Brian’s heart is broken, but he finds a quirky crew of nuns in a rundown convent facing shutdown. Together, they hit the road in a wild, hilarious race to save their home. Holy Days is a feel-good joyride about faith, fierce family vibes, and finding hope where you least expect it. Buckle up!",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/nKL4c0keUqw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/nKL4c0keUqw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/nKL4c0keUqw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/nKL4c0keUqw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/nKL4c0keUqw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Holy Days",
+      "Holy Days movie trailers",
+      "movie trailer",
+      "movies",
+      "new movies",
+      "new movie trailers",
+      "upcoming movies 2026",
+      "new movies 2026",
+      "2026 new movies",
+      "2026 trailers",
+      "new trailers",
+      "ign",
+      "ign movie trailer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Holy Days - Official Trailer (2026)",
+      "description": "1974 New Zealand: young Brian’s heart is broken, but he finds a quirky crew of nuns in a rundown convent facing shutdown. Together, they hit the road in a wild, hilarious race to save their home. Holy Days is a feel-good joyride about faith, fierce family vibes, and finding hope where you least expect it. Buckle up!"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M46S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "2949",
+    "likeCount": "62",
+    "favoriteCount": "0",
+    "commentCount": "2"
+  }
+}

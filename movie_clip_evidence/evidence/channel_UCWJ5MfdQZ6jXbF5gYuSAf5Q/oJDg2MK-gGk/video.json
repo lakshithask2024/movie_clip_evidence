@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#video",
+  "etag": "rZ0IxwvflRSlq6ba91ZDhsTyPt0",
+  "id": "oJDg2MK-gGk",
+  "snippet": {
+    "publishedAt": "2026-01-27T17:27:48Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Daredevil: Born Again Season 2 - Official Teaser Trailer (2026) Charlie Cox, Krysten Ritter",
+    "description": "Watch the Season 2 Teaser Trailer for Daredevil: Born Again, the continuation of the Daredevil series within the bounds of the MCU distributed by Disney. Tensions heat up with returning characters from Season 1, and new additions such as Jessica Jones in Season 2 of Daredevil: Born Again, streaming exclusively on Disney + on March 24.\n\nThe fight for New York rages on with Matt Murdock and his heroics as Daredevil pushes back against Mayor Wilson Fisk and his schemes as the infamous Kingpin. New additions to the conflict come to a head with Pointdexter and Jessica from the original Daredevil series being added to the chaos as well in the ultimate battle for the city.\n\nSeason 2 of Daredevil: Born Again stars Charlie Cox, Wilson Bethel, Deborah Ann Woll, Vincent D'Onofrio, Matthew Lillard, Krysten Ritter, Jon Bernthal, and more. The series is directed by Justin Benson and Aaron Moorehead, alongside being written by Dario Scardapane, Matt Corman, and Chris Ord.\n\nSeason 2 of Daredevil: Born Again is streaming exclusively on Disney + on March 24.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/oJDg2MK-gGk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/oJDg2MK-gGk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/oJDg2MK-gGk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/oJDg2MK-gGk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/oJDg2MK-gGk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Action",
+      "Daredevil",
+      "Daredevil: Born Again",
+      "Disney Plus",
+      "Marvel",
+      "Marvel Studios",
+      "On-Demand",
+      "Superhero"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Daredevil: Born Again Season 2 - Official Teaser Trailer (2026) Charlie Cox, Krysten Ritter",
+      "description": "Watch the Season 2 Teaser Trailer for Daredevil: Born Again, the continuation of the Daredevil series within the bounds of the MCU distributed by Disney. Tensions heat up with returning characters from Season 1, and new additions such as Jessica Jones in Season 2 of Daredevil: Born Again, streaming exclusively on Disney + on March 24.\n\nThe fight for New York rages on with Matt Murdock and his heroics as Daredevil pushes back against Mayor Wilson Fisk and his schemes as the infamous Kingpin. New additions to the conflict come to a head with Pointdexter and Jessica from the original Daredevil series being added to the chaos as well in the ultimate battle for the city.\n\nSeason 2 of Daredevil: Born Again stars Charlie Cox, Wilson Bethel, Deborah Ann Woll, Vincent D'Onofrio, Matthew Lillard, Krysten Ritter, Jon Bernthal, and more. The series is directed by Justin Benson and Aaron Moorehead, alongside being written by Dario Scardapane, Matt Corman, and Chris Ord.\n\nSeason 2 of Daredevil: Born Again is streaming exclusively on Disney + on March 24."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M19S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "5324",
+    "likeCount": "162",
+    "favoriteCount": "0",
+    "commentCount": "14"
+  }
+}

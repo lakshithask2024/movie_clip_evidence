@@ -1,0 +1,85 @@
+{
+  "kind": "youtube#video",
+  "etag": "kilK-9V15gMrn2HVtfNQO_Hi92c",
+  "id": "Ky_OkCQrA-U",
+  "snippet": {
+    "publishedAt": "2026-02-02T14:42:59Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Stars Share Their Ins & Outs For 2026",
+    "description": "From bath salts to flip flops, movie and TV actors reveal their 2026 ins and outs. Featuring submissions from Becky Lynch, Catalina Moreno, Jack O'Connell, Jessica Williams, Madelaine Petsch, Sam Rockwell, Sasha Calle, the cast of Tell Me Lies, and more!\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Ky_OkCQrA-U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Ky_OkCQrA-U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Ky_OkCQrA-U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Ky_OkCQrA-U/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Ky_OkCQrA-U/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood",
+      "Ins and outs 2026",
+      "Starfleet Academy",
+      "Becky Lynch",
+      "Catalina Moreno",
+      "Jack O'Connell",
+      "Jessica Williams",
+      "Madelaine Petsch",
+      "Sam Rockwell",
+      "Sasha Calle",
+      "Tell Me Lies",
+      "New Years Resolution"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Stars Share Their Ins & Outs For 2026",
+      "description": "From bath salts to flip flops, movie and TV actors reveal their 2026 ins and outs. Featuring submissions from Becky Lynch, Catalina Moreno, Jack O'Connell, Jessica Williams, Madelaine Petsch, Sam Rockwell, Sasha Calle, the cast of Tell Me Lies, and more!\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT8M",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "89",
+    "likeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "1"
+  }
+}

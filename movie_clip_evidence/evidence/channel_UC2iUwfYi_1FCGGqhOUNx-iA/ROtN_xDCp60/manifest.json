@@ -1,0 +1,21 @@
+{
+  "captured_at_utc": "2026-02-03T01:21:43.349181+00:00",
+  "video_url": "https://www.youtube.com/watch?v=ROtN_xDCp60",
+  "artifacts": [
+    {
+      "path": "video.json",
+      "sha256": "d987e603dadc0206a6f0904705a82658ed01be3d920c4d5c8ca65b7bd628b9f1",
+      "bytes": 3378
+    },
+    {
+      "path": "watch.html",
+      "sha256": "bfd8118925fbe2144c44d4eab60e3b8acb309c6b40bfc212f0cc3eeed7128527",
+      "bytes": 1151391
+    },
+    {
+      "path": "thumbnail.jpg",
+      "sha256": "1fd839cfa3e9b259032405072f33c5b833b9a095d372ffb6a232f6ae9ebf4865",
+      "bytes": 146169
+    }
+  ]
+}

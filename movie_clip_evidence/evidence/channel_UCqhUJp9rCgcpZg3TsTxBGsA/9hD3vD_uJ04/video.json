@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "yWLKs0LRLN5PkISzaYBxBJyHNN0",
+  "id": "9hD3vD_uJ04",
+  "snippet": {
+    "publishedAt": "2026-01-30T20:00:12Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Dylan O'Brien Knows 1 Rachel McAdams Movie By Heart",
+    "description": "Dylan O'Brien Knows 1 Rachel McAdams Movie By Heart\n\n#sendhelp #dylanobrien #rachelmcadams #thehotchick #thehotchickpoem \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/9hD3vD_uJ04/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/9hD3vD_uJ04/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/9hD3vD_uJ04/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/9hD3vD_uJ04/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/9hD3vD_uJ04/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Dylan O'Brien Knows 1 Rachel McAdams Movie By Heart",
+      "description": "Dylan O'Brien Knows 1 Rachel McAdams Movie By Heart\n\n#sendhelp #dylanobrien #rachelmcadams #thehotchick #thehotchickpoem \n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT1M12S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "45029",
+    "likeCount": "1573",
+    "favoriteCount": "0",
+    "commentCount": "11"
+  }
+}

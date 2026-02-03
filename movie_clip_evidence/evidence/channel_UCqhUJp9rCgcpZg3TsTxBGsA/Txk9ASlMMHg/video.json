@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#video",
+  "etag": "2Y4DS5BQC9IkS45HcqqsA3WgsyY",
+  "id": "Txk9ASlMMHg",
+  "snippet": {
+    "publishedAt": "2026-01-30T18:56:44Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Hoppers Director, Producer & Story Team Explain How Pixar Went \"Rogue\" For Newest Plucky Heroine",
+    "description": "Hoppers director Daniel Chong, producer Nicole Grindle, story supervisor John Cody Kim, and story lead Margaret Spencer explain how they landed on their daredevil Pixar protagonist Mabel, and what the biggest changes were from development to release.\n\nHoppers arrives in theaters on March 6.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Txk9ASlMMHg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Txk9ASlMMHg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Txk9ASlMMHg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Txk9ASlMMHg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Txk9ASlMMHg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood",
+      "Hoppers",
+      "Pixar",
+      "Daniel Chong",
+      "Nicole Grindle",
+      "John Cody Kim",
+      "Margaret Spencer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Hoppers Director, Producer & Story Team Explain How Pixar Went \"Rogue\" For Newest Plucky Heroine",
+      "description": "Hoppers director Daniel Chong, producer Nicole Grindle, story supervisor John Cody Kim, and story lead Margaret Spencer explain how they landed on their daredevil Pixar protagonist Mabel, and what the biggest changes were from development to release.\n\nHoppers arrives in theaters on March 6.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT8M25S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "165",
+    "likeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

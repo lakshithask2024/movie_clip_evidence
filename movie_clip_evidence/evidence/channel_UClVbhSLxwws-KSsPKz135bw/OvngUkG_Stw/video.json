@@ -1,0 +1,85 @@
+{
+  "kind": "youtube#video",
+  "etag": "bz2Mx1OOiNkDmnYIOm7l1hcH6qQ",
+  "id": "OvngUkG_Stw",
+  "snippet": {
+    "publishedAt": "2024-11-30T19:48:09Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Captain America Entrance Scene - Avengers: Infinity War (2018) Movie Clip HD",
+    "description": "Captain America/Steve Rogers (Chris Evans) Entry/Entrance Scene - Cap, Falcon/Sam Wilson (Anthony Mackie) and Black Widow/Natasha Romanoff (Scarlett Johansson) vs The Black Order (Proxima Midnight, Corvus Glaive) - Scarlet Witch/Wanda & Vision - Edinburgh Fight - Secret Reinforcements - Avengers: Infinity War (2018) Movie Clip HD\n\nTM & © Disney Enterprises (2018)\n\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/OvngUkG_Stw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/OvngUkG_Stw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/OvngUkG_Stw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/OvngUkG_Stw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/OvngUkG_Stw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "captain america",
+      "captain america entrance",
+      "captain america entry",
+      "avengers",
+      "infinity war",
+      "avengers infinity war",
+      "steve rogers",
+      "sam wilson",
+      "falcon",
+      "scene",
+      "scenes",
+      "clip",
+      "movie clip",
+      "marvel",
+      "marvel comics",
+      "Superhero",
+      "superheroes",
+      "black widow",
+      "wanda",
+      "vision",
+      "scarlet witch"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Captain America Entrance Scene - Avengers: Infinity War (2018) Movie Clip HD",
+      "description": "Captain America/Steve Rogers (Chris Evans) Entry/Entrance Scene - Cap, Falcon/Sam Wilson (Anthony Mackie) and Black Widow/Natasha Romanoff (Scarlett Johansson) vs The Black Order (Proxima Midnight, Corvus Glaive) - Scarlet Witch/Wanda & Vision - Edinburgh Fight - Secret Reinforcements - Avengers: Infinity War (2018) Movie Clip HD\n\nTM & © Disney Enterprises (2018)\n\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M8S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "2021666",
+    "likeCount": "19304",
+    "favoriteCount": "0",
+    "commentCount": "1145"
+  }
+}

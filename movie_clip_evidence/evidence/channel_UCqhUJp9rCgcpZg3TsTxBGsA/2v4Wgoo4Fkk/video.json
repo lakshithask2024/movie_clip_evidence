@@ -1,0 +1,81 @@
+{
+  "kind": "youtube#video",
+  "etag": "elJYiVwhp_R9k2xAqEFr1PobYcE",
+  "id": "2v4Wgoo4Fkk",
+  "snippet": {
+    "publishedAt": "2026-01-30T17:27:19Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "School Spirits Season 3: Peyton List & Milo Manheim Talk Wally And Maddie's Perfect Happy Ending",
+    "description": "School Spirits stars Peyton List and Milo Manheim discuss Maddie's acclimation back to life in season 3, Wally's reasons for not walking through his door, and what a perfect happy ending might look like for them.\n\nNew episodes of School Spirits season 3 drop Wednesdays on Paramount+.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2v4Wgoo4Fkk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2v4Wgoo4Fkk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2v4Wgoo4Fkk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/2v4Wgoo4Fkk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/2v4Wgoo4Fkk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood",
+      "maddie nears",
+      "wally clark",
+      "peyton list",
+      "milo manheim",
+      "school spirits",
+      "season 3",
+      "paramount plus"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "School Spirits Season 3: Peyton List & Milo Manheim Talk Wally And Maddie's Perfect Happy Ending",
+      "description": "School Spirits stars Peyton List and Milo Manheim discuss Maddie's acclimation back to life in season 3, Wally's reasons for not walking through his door, and what a perfect happy ending might look like for them.\n\nNew episodes of School Spirits season 3 drop Wednesdays on Paramount+.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT4M28S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "2865",
+    "likeCount": "41",
+    "favoriteCount": "0",
+    "commentCount": "1"
+  }
+}

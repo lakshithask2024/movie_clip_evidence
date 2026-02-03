@@ -1,0 +1,85 @@
+{
+  "kind": "youtube#video",
+  "etag": "A3QqNSd-xL99VKbVjImn-LA8Jxs",
+  "id": "718u9wQwNm4",
+  "snippet": {
+    "publishedAt": "2023-07-08T22:10:33Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Miles Morales and Peter B. Parker - Police Chase Scene - Spider-Man: Into the Spider-Verse (2018)",
+    "description": "Miles Morales and Peter B. Parker/Spiderman - Police Chase Scene - Spider-Man: Into the Spider-Verse (2018) Movie Clip HD [1080p]\n\nTM & © Sony (2018)\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/718u9wQwNm4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/718u9wQwNm4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/718u9wQwNm4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/718u9wQwNm4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/718u9wQwNm4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "spiderman",
+      "spider-man",
+      "spider man",
+      "peter parker",
+      "peter b parker",
+      "scene",
+      "scenes",
+      "clip",
+      "clips",
+      "movie clip",
+      "superhero",
+      "superheroes",
+      "marvel",
+      "marvel comics",
+      "miles morales",
+      "spider-man into the spider-verse",
+      "spider-verse",
+      "multiverse",
+      "spiderverse",
+      "spider-man across the spider-verse",
+      "across the spider-verse"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Miles Morales and Peter B. Parker - Police Chase Scene - Spider-Man: Into the Spider-Verse (2018)",
+      "description": "Miles Morales and Peter B. Parker/Spiderman - Police Chase Scene - Spider-Man: Into the Spider-Verse (2018) Movie Clip HD [1080p]\n\nTM & © Sony (2018)\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M25S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "93574",
+    "likeCount": "1018",
+    "favoriteCount": "0",
+    "commentCount": "80"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "captured_at_utc": "2026-02-03T01:23:01.380109+00:00",
+  "video_url": "https://www.youtube.com/watch?v=VeGUPogvi-Q",
+  "artifacts": [
+    {
+      "path": "video.json",
+      "sha256": "67a69003e65d36c6c12675d14f768fe7b09ce62f732eab411527f63aef537496",
+      "bytes": 4910
+    },
+    {
+      "path": "watch.html",
+      "sha256": "1e20e6a81e69558bf455d78f0998fedcab1a38ba78278d18f03e0093b1b41070",
+      "bytes": 1147662
+    },
+    {
+      "path": "thumbnail.jpg",
+      "sha256": "9ff7fff65f6663fef182574221a6d3c66fa5172d781c256416b5f4853d1053d8",
+      "bytes": 65277
+    }
+  ]
+}

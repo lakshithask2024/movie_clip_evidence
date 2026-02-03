@@ -1,0 +1,90 @@
+{
+  "kind": "youtube#video",
+  "etag": "F1l--LUkMmVtWd7TQTkzwIo9MxU",
+  "id": "4r4f678TwZY",
+  "snippet": {
+    "publishedAt": "2024-11-16T21:30:50Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Venom vs Eddie - Apartment Fight Scene - Venom: Let There Be Carnage (2021) Movie Clip HD",
+    "description": "Venom vs Eddie Brock (Tom Hardy) - Apartment Fight Scene - Venom 2: Let There Be Carnage (2021) Movie Clip HD\n\nTM & © Sony (2021)\n\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4r4f678TwZY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4r4f678TwZY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4r4f678TwZY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4r4f678TwZY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/4r4f678TwZY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "venom",
+      "venom scene",
+      "eddie brock",
+      "tom hardy",
+      "venom movie",
+      "venom 2",
+      "venom 3",
+      "venom let there be carnage",
+      "venom the last dance",
+      "scene",
+      "scenes",
+      "movie clip",
+      "clip",
+      "marvel",
+      "venom scenes",
+      "let there be carnage",
+      "symbiote",
+      "symbiotes",
+      "transformation",
+      "spiderman",
+      "Superhero",
+      "superheroes",
+      "marvel comics",
+      "apartment",
+      "fight",
+      "fight scene"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Venom vs Eddie - Apartment Fight Scene - Venom: Let There Be Carnage (2021) Movie Clip HD",
+      "description": "Venom vs Eddie Brock (Tom Hardy) - Apartment Fight Scene - Venom 2: Let There Be Carnage (2021) Movie Clip HD\n\nTM & © Sony (2021)\n\nFair use. \nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT3M19S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "296111",
+    "likeCount": "2798",
+    "favoriteCount": "0",
+    "commentCount": "110"
+  }
+}

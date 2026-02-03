@@ -1,0 +1,80 @@
+{
+  "kind": "youtube#video",
+  "etag": "VR0uwOJMaI60OKt-qfHEDi2RLBA",
+  "id": "6iW_DXop8uY",
+  "snippet": {
+    "publishedAt": "2026-02-02T22:36:02Z",
+    "channelId": "UCqhUJp9rCgcpZg3TsTxBGsA",
+    "title": "Method Man Talks Relationship Goals, A Career Second Act, And His Superhero Future",
+    "description": "Clifford Smith Jr., best known as Method Man, discusses the journey that led him from hip-hop icon to Kelly Rowland's onscreen romantic partner.\n\nRelationship Goals streams February 4 on Prime Video.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6iW_DXop8uY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6iW_DXop8uY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6iW_DXop8uY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/6iW_DXop8uY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/6iW_DXop8uY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Screen Rant Plus",
+    "tags": [
+      "movies",
+      "tv",
+      "news",
+      "marvel",
+      "dc",
+      "MCU",
+      "DCEU",
+      "interviews",
+      "celebrity",
+      "Hollywood",
+      "Clifford Smith Jr.",
+      "Method Man",
+      "Kelly Rowland",
+      "Relationship Goals",
+      "Amazon",
+      "Prime Video"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Method Man Talks Relationship Goals, A Career Second Act, And His Superhero Future",
+      "description": "Clifford Smith Jr., best known as Method Man, discusses the journey that led him from hip-hop icon to Kelly Rowland's onscreen romantic partner.\n\nRelationship Goals streams February 4 on Prime Video.\n\nhttps://screenrant.com\nhttps://www.facebook.com/ScreenRant\nhttps://twitter.com/ScreenRant\nhttps://instagram.com/ScreenRant"
+    },
+    "defaultAudioLanguage": "en-US"
+  },
+  "contentDetails": {
+    "duration": "PT13M56S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "25",
+    "likeCount": "3",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  }
+}

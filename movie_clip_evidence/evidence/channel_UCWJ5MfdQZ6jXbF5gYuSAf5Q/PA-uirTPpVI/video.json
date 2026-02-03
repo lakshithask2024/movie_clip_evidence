@@ -1,0 +1,74 @@
+{
+  "kind": "youtube#video",
+  "etag": "hAyy9nlm1CzamVnpG74Isf1L2ps",
+  "id": "PA-uirTPpVI",
+  "snippet": {
+    "publishedAt": "2026-01-30T17:00:51Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Teenage Mutant Ninja Turtles 2: The Secret of the Ooze 35th Anniversary - Official Trailer (2026)",
+    "description": "Go Ninja Go! Check out the Teenage Mutant Ninja Turtles 2: The Secret of the Ooze 35th Anniversary trailer for the upcoming 35th anniversary theatrical re-release of the film. Teenage Mutant Ninja Turtles 2: The Secret of The Ooze 35th Anniversary opens in theatres nationwide for a week from March 13 - 19, 2026, and tickets are now on sale. \n\nTeenage Mutant Ninja Turtles 2: The Secret of the Ooze will be presented in theatres in a newly restored 4K presentation. In addition to the feature presentation, the anniversary event will include a never-before-seen featurette, The Ninja Turtles: Revolutions, appearing before the movie—step into the mind of TMNT co-creator Kevin Eastman, joining him on a vision through the past. Sit down alongside the icon at his personal drawing desk while he illustrates through the revolving history and mythos of the Teenage Mutant Ninja Turtles legend.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PA-uirTPpVI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PA-uirTPpVI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PA-uirTPpVI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/PA-uirTPpVI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/PA-uirTPpVI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Action",
+      "Blu-ray",
+      "Comedy",
+      "DVD",
+      "New Line Cinema",
+      "New Line Home Entertainment",
+      "Teenage Mutant Ninja Turtles",
+      "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "Theater",
+      "Warner Home Video"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Teenage Mutant Ninja Turtles 2: The Secret of the Ooze 35th Anniversary - Official Trailer (2026)",
+      "description": "Go Ninja Go! Check out the Teenage Mutant Ninja Turtles 2: The Secret of the Ooze 35th Anniversary trailer for the upcoming 35th anniversary theatrical re-release of the film. Teenage Mutant Ninja Turtles 2: The Secret of The Ooze 35th Anniversary opens in theatres nationwide for a week from March 13 - 19, 2026, and tickets are now on sale. \n\nTeenage Mutant Ninja Turtles 2: The Secret of the Ooze will be presented in theatres in a newly restored 4K presentation. In addition to the feature presentation, the anniversary event will include a never-before-seen featurette, The Ninja Turtles: Revolutions, appearing before the movie—step into the mind of TMNT co-creator Kevin Eastman, joining him on a vision through the past. Sit down alongside the icon at his personal drawing desk while he illustrates through the revolving history and mythos of the Teenage Mutant Ninja Turtles legend."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M38S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "3109",
+    "likeCount": "142",
+    "favoriteCount": "0",
+    "commentCount": "7"
+  }
+}

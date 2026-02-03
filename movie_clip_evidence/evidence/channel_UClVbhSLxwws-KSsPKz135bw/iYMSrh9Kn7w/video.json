@@ -1,0 +1,78 @@
+{
+  "kind": "youtube#video",
+  "etag": "bYjTdOe8lmHJN7bPhbG-DBATowE",
+  "id": "iYMSrh9Kn7w",
+  "snippet": {
+    "publishedAt": "2023-10-15T18:22:48Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Frigga's Death Scene - Thor: The Dark World (2013) Movie Clip HD",
+    "description": "Frigga vs Malekith and Kurse - Frigga's Death Scene - Thor: The Dark World (2013) Movie Clip HD [1080p]\n\nTM & © Disney (2013)\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iYMSrh9Kn7w/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iYMSrh9Kn7w/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iYMSrh9Kn7w/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/iYMSrh9Kn7w/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/iYMSrh9Kn7w/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "frigga",
+      "frigga death",
+      "frigga funeral",
+      "loki",
+      "clip",
+      "movie clip",
+      "scene",
+      "scenes",
+      "Marvel",
+      "Superhero",
+      "superheroes",
+      "thor",
+      "odin",
+      "asgard"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Frigga's Death Scene - Thor: The Dark World (2013) Movie Clip HD",
+      "description": "Frigga vs Malekith and Kurse - Frigga's Death Scene - Thor: The Dark World (2013) Movie Clip HD [1080p]\n\nTM & © Disney (2013)\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT4M17S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "1147923",
+    "likeCount": "9237",
+    "favoriteCount": "0",
+    "commentCount": "503"
+  }
+}

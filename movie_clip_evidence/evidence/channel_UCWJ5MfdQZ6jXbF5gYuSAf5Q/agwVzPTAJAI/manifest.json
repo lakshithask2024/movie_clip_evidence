@@ -1,0 +1,21 @@
+{
+  "captured_at_utc": "2026-02-03T01:25:04.905226+00:00",
+  "video_url": "https://www.youtube.com/watch?v=agwVzPTAJAI",
+  "artifacts": [
+    {
+      "path": "video.json",
+      "sha256": "26879cad3eca71a5f3f1382ac3db0ad75daec6bec2b0d4e6bd4e0e6af0da5d7e",
+      "bytes": 2933
+    },
+    {
+      "path": "watch.html",
+      "sha256": "389346b7765535c43986c487fdcebdc840d0d599edf16119e84b51a67f1f7e59",
+      "bytes": 1082714
+    },
+    {
+      "path": "thumbnail.jpg",
+      "sha256": "e9c221d8a3f59040ad1b58834cc456c59b71a51a8d34b15c58d6ff219dc6203a",
+      "bytes": 110283
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kind": "youtube#video",
+  "etag": "pqRtgNinpJBhNlSCGZkyPPawK6I",
+  "id": "47MGUb4VJXw",
+  "snippet": {
+    "publishedAt": "2026-01-25T14:16:17Z",
+    "channelId": "UCLRlryMfL8ffxzrtqv0_k_w",
+    "title": "THE SUPER MARIO GALAXY MOVIE Official Trailer 2 (2026)",
+    "description": "Official The Super Mario Galaxy Movie Movie Trailer 2 2026 | More ➤ https://KinoCheck.com/App | Movie Trailer | Cinema: 3 Apr 2026 | Details ➤ https://KinoCheck.com/movie/a8r/the-super-mario-galaxy-movie-2026?utm_source=youtube&utm_medium=description\nA new adventure awaits Mario, Luigi & Peach! And the world of the famous plumber is even bigger and crazier than ever before in the sequel...\n\nThe Super Mario Galaxy Movie (2026) is the new animation movie by Aaron Horvath & Michael Jelenic.\n\nNote | #TheSuperMarioGalaxyMovie #Trailer courtesy of Universal Pictures. | All Rights Reserved. #KinoCheck®",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/47MGUb4VJXw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/47MGUb4VJXw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/47MGUb4VJXw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/47MGUb4VJXw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/47MGUb4VJXw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "KinoCheck.com",
+    "tags": [
+      "2026",
+      "Animation",
+      "Bowser",
+      "KinoCheck",
+      "Luigi",
+      "Mario",
+      "Mario 2",
+      "Mario Movie 2",
+      "Movie",
+      "Princess Peach",
+      "Super Mario Bros 2",
+      "The Super Mario Galaxy Movie",
+      "The Super Mario Galaxy Movie trailer",
+      "Wario",
+      "Yoshi",
+      "trailer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "THE SUPER MARIO GALAXY MOVIE Official Trailer 2 (2026)",
+      "description": "Official The Super Mario Galaxy Movie Movie Trailer 2 2026 | More ➤ https://KinoCheck.com/App | Movie Trailer | Cinema: 3 Apr 2026 | Details ➤ https://KinoCheck.com/movie/a8r/the-super-mario-galaxy-movie-2026?utm_source=youtube&utm_medium=description\nA new adventure awaits Mario, Luigi & Peach! And the world of the famous plumber is even bigger and crazier than ever before in the sequel...\n\nThe Super Mario Galaxy Movie (2026) is the new animation movie by Aaron Horvath & Michael Jelenic.\n\nNote | #TheSuperMarioGalaxyMovie #Trailer courtesy of Universal Pictures. | All Rights Reserved. #KinoCheck®"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M23S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "regionRestriction": {
+      "blocked": [
+        "BR",
+        "BY",
+        "ID",
+        "IN",
+        "PH",
+        "PK",
+        "RU"
+      ]
+    },
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "166136",
+    "likeCount": "3273",
+    "favoriteCount": "0",
+    "commentCount": "350"
+  }
+}

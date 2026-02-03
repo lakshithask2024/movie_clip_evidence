@@ -1,0 +1,94 @@
+{
+  "kind": "youtube#video",
+  "etag": "KIEwB-Z3x_hUTPEj9oc8PgpX--4",
+  "id": "mhILMELgiaQ",
+  "snippet": {
+    "publishedAt": "2024-02-12T18:05:30Z",
+    "channelId": "UClVbhSLxwws-KSsPKz135bw",
+    "title": "Wolverine vs Deadpool - Fight Scene - X-Men Origins: Wolverine (2009) Movie Clip HD",
+    "description": "Wolverine/Logan (Hugh Jackman) & Sabretooth vs Deadpool/Wade Wilson (Ryan Reynolds) - Final Fight Scene - Wolverine Kills Deadpool - X-Men Origins: Wolverine (2009) Movie Clip HD [1080p]\n\nTM & © Fox / Disney (2009)\n\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/mhILMELgiaQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/mhILMELgiaQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/mhILMELgiaQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/mhILMELgiaQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/mhILMELgiaQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "TopMovieClips",
+    "tags": [
+      "wolverine",
+      "vs",
+      "deadpool",
+      "wolverine vs deadpool",
+      "x men",
+      "x men origins",
+      "fight scene",
+      "wade wilson",
+      "Logan",
+      "Fight",
+      "x-men",
+      "movie clip",
+      "clip",
+      "scene",
+      "scenes",
+      "deadpool scene",
+      "Marvel",
+      "marvel comics",
+      "Superhero",
+      "superheroes",
+      "ryan reynolds",
+      "deadpool vs wolverine",
+      "deadpool and wolverine",
+      "wolverine and deadpool",
+      "hugh jackman"
+    ],
+    "categoryId": "1",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Wolverine vs Deadpool - Fight Scene - X-Men Origins: Wolverine (2009) Movie Clip HD",
+      "description": "Wolverine/Logan (Hugh Jackman) & Sabretooth vs Deadpool/Wade Wilson (Ryan Reynolds) - Final Fight Scene - Wolverine Kills Deadpool - X-Men Origins: Wolverine (2009) Movie Clip HD [1080p]\n\nTM & © Fox / Disney (2009)\n\nFair use.\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT2M58S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "regionRestriction": {
+      "blocked": [
+        "RU"
+      ]
+    },
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "6904677",
+    "likeCount": "44060",
+    "favoriteCount": "0",
+    "commentCount": "1601"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#video",
+  "etag": "hQtlNFP0SrefG1OWhH2ydvrMHGc",
+  "id": "drWEEuLc3jg",
+  "snippet": {
+    "publishedAt": "2026-01-30T20:16:09Z",
+    "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+    "title": "Arco - Official Final Trailer (2026)",
+    "description": "Check out the final Arco trailer for this animated film about a 10-year-old boy from a peaceful, distant future who accidentally travels back to the year 2075 and discovers a world in peril. As Arco develops a charming and touching friendship with a young girl named Iris, they band together and along with her trusted robot caretaker Mikki, set out on a quest to get Arco home, while the two children may also be the only ones who can save our planet.\n\nArco is an enchanting fable from breakout filmmaker Ugo Bienvenu, produced by Remembers’ Bienvenu and Felix de Givry, and mountainA’s Natalie Portman and Sophie Mas.\n\nArco is now playing in theaters.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/drWEEuLc3jg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/drWEEuLc3jg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/drWEEuLc3jg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/drWEEuLc3jg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/drWEEuLc3jg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "IGN Movie Trailers",
+    "tags": [
+      "Animation",
+      "Arco",
+      "Diaphana Distribution",
+      "Fantasy",
+      "Fit Via Vi Film Productions",
+      "Goodfellas Animation",
+      "MountainA",
+      "Neon",
+      "Sci-Fi",
+      "Theater",
+      "Arco movie trailers",
+      "movie trailer",
+      "movies",
+      "new movies",
+      "new movie trailers",
+      "upcoming movies 2026",
+      "new movies 2026",
+      "2026 new movies",
+      "2026 trailers",
+      "new trailers",
+      "ign",
+      "ign movie trailer"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Arco - Official Final Trailer (2026)",
+      "description": "Check out the final Arco trailer for this animated film about a 10-year-old boy from a peaceful, distant future who accidentally travels back to the year 2075 and discovers a world in peril. As Arco develops a charming and touching friendship with a young girl named Iris, they band together and along with her trusted robot caretaker Mikki, set out on a quest to get Arco home, while the two children may also be the only ones who can save our planet.\n\nArco is an enchanting fable from breakout filmmaker Ugo Bienvenu, produced by Remembers’ Bienvenu and Felix de Givry, and mountainA’s Natalie Portman and Sophie Mas.\n\nArco is now playing in theaters."
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT1M11S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "7380",
+    "likeCount": "137",
+    "favoriteCount": "0",
+    "commentCount": "8"
+  }
+}
